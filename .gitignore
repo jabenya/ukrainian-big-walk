@@ -1,0 +1,13 @@
+# Build outputs
+bin/
+obj/
+lib/
+
+# IDE
+.idea/
+.vs/
+*.user
+*.suo
+
+# Local Thunderstore publishing package
+Thunderstore/
